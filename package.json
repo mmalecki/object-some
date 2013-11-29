@@ -1,6 +1,6 @@
 {
   "name": "object-some",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "`Array.prototype.some` for objects",
   "keywords": ["object", "some"],
   "author": "Maciej Małecki <me@mmalecki.com>",
